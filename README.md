@@ -49,3 +49,13 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 **Project Screenshots**
 ![Screenshot 2024-07-25 011502](https://github.com/user-attachments/assets/c6bebbd1-09c0-43e6-b3af-0657aee5a530)
+
+## Certifications
+I have completed the **Django Application Development with SQL and Databases** course from IBM.
+![image](https://github.com/user-attachments/assets/8c7562f0-de43-4d4a-b55b-dd41bd196311)
+
+- [Django Application Development with SQL and Databases by IBM](https://coursera.org/share/5e9420db9c2e99dd254a218bc4b075bc)
+
+
+
+
